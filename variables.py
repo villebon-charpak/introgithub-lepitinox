@@ -76,7 +76,7 @@ nombre_de_clients = 0
 nombre_de_clients =  nombre_de_clients+2
 nombre_de_clients =  nombre_de_clients-1
 print(nombre_de_clients)
-
+print("GG")
 
 
 
