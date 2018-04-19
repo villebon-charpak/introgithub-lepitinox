@@ -23,8 +23,7 @@
 #       créer une variable et lui affecter une valeur
 
 # ... Écrivez votre code ici ...
-
-
+ma_variable = 1
 
 print(ma_variable)
 
@@ -39,8 +38,9 @@ print(ma_variable)
 
 # ... Écrivez votre code ici ...
 
-texte = "Salut !"
 
+texte = "Salut !"
+print(texte)
 
 
 # Exercice 1.3
@@ -54,7 +54,7 @@ texte = "Salut !"
 # ... Écrivez votre code ici ...
 
 nombre = 2 # ne pas toucher à cette ligne !
-
+nombre = nombre+1
 
 
 print(nombre)
@@ -72,7 +72,10 @@ print(nombre)
 
 # ... Écrivez votre code ici ...
 
-
+nombre_de_clients = 0
+nombre_de_clients =  nombre_de_clients+2
+nombre_de_clients =  nombre_de_clients-1
+print(nombre_de_clients)
 
 
 
